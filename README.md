@@ -92,3 +92,6 @@ python lm_desktop_assistant.py
 
 许可证
 MIT
+
+#界面预览
+<img width="3839" height="2083" alt="屏幕截图 2025-11-02 085544" src="https://github.com/user-attachments/assets/547d2691-7604-4e2c-bd21-a7b845bfac86" />
